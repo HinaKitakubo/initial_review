@@ -99,7 +99,7 @@ int main() {
       v[n].z = V[n].z;
 
       //std::cout << data[i][5] << " " << q << " " << P << " " << sqrt(1.0 - x) << " " << cmax << std::endl;
-      std::cout << v[n].x << " " << v[n].y << " " << v[n].z << std::endl;
+      std::cout << v[n].x << " " << v[n].y << " " << v[n].z << " " << vel << std::endl;
       i++;
    }
 
